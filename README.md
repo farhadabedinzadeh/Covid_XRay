@@ -1,4 +1,4 @@
-# Covid19 XRay Detection using Deep learning
+# Classification of Covid19 XRays using Deep learning
 
 Chest X-ray data have been proven to be extremely promising for screening COVID-19 patients, particularly for addressing overcapacity in emergency departments and urgent care centers. Deep-learning (DL) approaches in artificial intelligence (AI) have a leading role as high-performance classifiers in illness diagnosis utilizing chest X-rays.
 
